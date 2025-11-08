@@ -81,6 +81,9 @@ Foi desenvolvido um **dashboard interativo** para visualização dos resultados 
   Filtros por **gênero**, **ano de lançamento** e **idioma original**, permitindo análises dinâmicas e personalizadas.
 
 
+![dashboard](https://github.com/user-attachments/assets/127f5b11-4332-4666-a292-891ab4dd395c)
+
+Para ter acesso ao dashboard acesse este link: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYjQ3OTIxNjItMzA4ZC00MzY3LTk0YmMtNTA3ZDE0M2RjZjVhIiwidCI6IjlkYmYzMjZlLTIxODUtNGM3OC1iY2NhLTBmNTdmOTc4ZjNkYSJ9)
 
 ---
 
@@ -93,7 +96,7 @@ Foi desenvolvido um **dashboard interativo** para visualização dos resultados 
 | Carga         | SQLAlchemy, PostgreSQL (nuvem) |
 | EDA           | SQL (PostgreSQL)               |
 | Visualização  | Power BI / Plotly Dash         |
-| Outras        | API TMDB, Jupyter Notebook     |
+| Outras        | API TMDB   |
 
 ---
 
