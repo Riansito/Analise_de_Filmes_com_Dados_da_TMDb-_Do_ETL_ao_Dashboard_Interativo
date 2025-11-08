@@ -1,0 +1,4 @@
+*.sql linguist-detectable=true
+*.log linguist-vendored
+*.txt linguist-vendored
+*.py linguist-detectable=true
