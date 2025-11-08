@@ -46,8 +46,6 @@ Após a coleta, os dados passaram por:
 
 Os dados tratados foram **carregados para um banco de dados PostgreSQL na nuvem**, permitindo consultas otimizadas e integração direta com ferramentas de análise.
 
-![dashboard](https://github.com/user-attachments/assets/38e473b7-7a63-49e6-8c34-20b3984180e7)
-
 ---
 
 ### 🔹 2. EDA — Análise Exploratória de Dados (no PostgreSQL)
