@@ -100,13 +100,17 @@ Para ter acesso ao dashboard acesse este link: [Dashboard](https://app.powerbi.c
 
 ---
 
-## 📈 Resultados Esperados
+### 📈 Resultados Esperados
 
-Com base na análise e nas recomendações geradas, espera-se um **aumento de cerca de 20% no engajamento e retenção de usuários** nas plataformas de streaming, por meio de:
+Com base nas análises e recomendações propostas, espera-se um aumento **entre 25% e 35% na base de espectadores ativos**, aliado a **um crescimento de cerca de 20% no engajamento e retenção de usuários** nas plataformas de streaming, impulsionado por:
 
-* Melhor curadoria de conteúdo;
-* Priorização de gêneros mais atraentes;
-* Lançamentos focados em filmes com características de alta popularidade.
+* Melhor curadoria de conteúdo e recomendações personalizadas;
+* Priorização de gêneros com maior apelo (Ação, Thriller e Horror);
+* Ampliação de filmes com alta avaliação crítica (Drama, Documentário e Guerra);
+* Lançamentos focados em produções recentes e tendências culturais;
+* Expansão do catálogo internacional com filmes em idiomas asiáticos e regionais.
+
+Essas iniciativas combinam **atração de novos públicos**, **retenção de usuários fiéis** e **fortalecimento da imagem de qualidade e diversidade da plataforma**, gerando um ciclo contínuo de crescimento e engajamento sustentável.
 
 ---
 
